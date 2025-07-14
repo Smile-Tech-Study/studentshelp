@@ -1,0 +1,34 @@
+# Как посмотреть версию ОС
+
+Чтобы посмотреть версию операционной системы на Windows и MacOS выберете соответствующий раздел:
+
+{% tabs %}
+{% tab title="Windows 8.1 - 11" %}
+1. Чтобы узнать, какая версия Windows используется на вашем устройстве, нажмите **клавишу с логотипом Windows** ![](https://winnote.ru/uploads/posts/2018-11/1543170989_winkey.png) + **R**, введите **winver** в поле **Открыть.**&#x20;
+
+![](<../.gitbook/assets/image (36).png>)
+
+
+
+&#x20; 2\. Нажмите **ОК**.
+
+<figure><img src="../.gitbook/assets/image (126).png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+
+{% tab title="MacOS" %}
+1. Чтобы узнать, какая версия MacOS используется на вашем устройстве, в **меню Apple** ![](<../.gitbook/assets/image (23).png>) в углу экрана выберите **пункт «Об этом Mac»**.&#x20;
+
+![](<../.gitbook/assets/image (42).png>)
+
+&#x20; 2\. Вы увидите название выпуска macOS, например macOS Monterey или macOS Big Sur, и номер версии. Если необходимо также узнать номер сборки, для его отображения щелкните номер версии.
+
+![](<../.gitbook/assets/image (29).png>)
+{% endtab %}
+{% endtabs %}
+
+
+
+
+
+
+
