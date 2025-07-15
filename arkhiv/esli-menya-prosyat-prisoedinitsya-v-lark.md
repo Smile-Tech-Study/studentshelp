@@ -9,7 +9,8 @@
 
 <figure><img src="../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="info" %}
+:::info
+
 При регистрации через почту или с телефон вы получите код-подтверждение \
 На почту придёт письмо с адреса rk\_passport@service.larksuite.com.&#x20;
 

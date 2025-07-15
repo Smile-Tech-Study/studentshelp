@@ -25,7 +25,8 @@ description: Подробнее о системе
 
 <figure><img src="../.gitbook/assets/организация.png" alt=""><figcaption><p>Структура системы</p></figcaption></figure>
 
-{% hint style="info" %}
+:::info
+
 **Активность** - аналог занятия в университете: лекции, практики, контрольные и др.
 
 :::

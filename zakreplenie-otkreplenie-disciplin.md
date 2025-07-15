@@ -10,7 +10,8 @@ description: Откройте страницу дисциплины
 
 <figure><img src=".gitbook/assets/image (102).png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="info" %}
+:::info
+
 Список всех ваших дисциплин можно посмотреть на Дашборде.
 
 :::
