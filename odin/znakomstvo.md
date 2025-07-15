@@ -23,7 +23,7 @@ description: Подробнее о системе
 
 :::
 
-![](<../.gitbook/assets/организация.png> "Структура системы</p></figcaption></figure>
+![](<../.gitbook/assets/организация.png> "Структура системы")
 
 :::info
 
