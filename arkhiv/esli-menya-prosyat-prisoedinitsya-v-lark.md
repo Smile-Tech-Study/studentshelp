@@ -26,7 +26,8 @@
 
 <figure><img src="../.gitbook/assets/telegram-cloud-photo-size-2-5287501656939939544-w.jpg" alt=""><figcaption></figcaption></figure>
 
-{% hint style="success" %}
+:::tip
+
 Время звонков обычно заполняется на странице активности в Odin.
 {% endhint %}
 
