@@ -15,7 +15,7 @@ description: В Odin есть удобная и информативная ст�
 
 :::
 
-![](<../.gitbook/assets/image (89).png" alt=""><figcaption><p>Так отобразится расписание</p></figcaption></figure>
+![](<../.gitbook/assets/image (89).png> "Так отобразится расписание</p></figcaption></figure>
 
 ***
 
