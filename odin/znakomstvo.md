@@ -6,7 +6,7 @@ description: Подробнее о системе
 
 ## Как проходит обучение?
 
-{% embed url="https://rutube.ru/video/9000d37b946f77d29266e32c27977fb6/?r=wd" %}
+[video:https://rutube.ru/video/9000d37b946f77d29266e32c27977fb6/?r=wd" %}
 
 * откройте [**Дашборд**](dashbord.md)
 * познакомьтесь с системой Odin
