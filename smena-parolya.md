@@ -6,7 +6,8 @@ description: В системе предусмотрена возможность
 
 {% hint style="info" %}
 Ссылка для входа в  Odin [https://www.odin.study/ru/Account/Login](https://www.odin.study/ru/Account/Login)
-{% endhint %}
+
+:::
 
 \
 **Смена пароля может потребоваться в следующих случаях:**
