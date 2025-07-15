@@ -2,8 +2,8 @@
 
 Чтобы открыть чат дисциплины, необходимо зайти на страницу дисциплины и нажать на кнопку "Открыть чат дисциплины". Так Вы попадете в общий чат.
 
-![](<.gitbook/assets/image (111).png" alt=""><figcaption></figcaption></figure>
+![](<.gitbook/assets/image (111).png>)
 
 Призвать участника можно через @ в строке ввода сообщения.
 
-![](<.gitbook/assets/image (117).png" alt=""><figcaption></figcaption></figure>
+![](<.gitbook/assets/image (117).png>)

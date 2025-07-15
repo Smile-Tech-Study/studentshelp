@@ -4,4 +4,4 @@
 
 Поиск работает по любому из пунктов, если пункт не выбран, найдутся все совпадения.&#x20;
 
-![](<../.gitbook/assets/image (81).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (81).png>)

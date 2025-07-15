@@ -6,11 +6,11 @@ description: Информация о себе
 
 Перейти на страницу профиля можно из меню.
 
-![](<../../.gitbook/assets/image (78).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (78).png>)
 
 Если необходимо внести изменения в информацию о себе, нажмите "Редактировать", добавьте фото.
 
-![](<../../.gitbook/assets/image (79).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (79).png>)
 
 :::tip
 
@@ -32,4 +32,4 @@ description: Информация о себе
 
 Город и Часовой пояс могут не совпадать, значения полей можно менять независимо.&#x20;
 
-![](<../../.gitbook/assets/image (110).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (110).png>)

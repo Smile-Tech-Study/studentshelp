@@ -7,7 +7,7 @@
 1. Скачайте приложение [ ](https://www.larksuite.com/download?download_from=inappvc)[ ](https://www.larksuite.com/download?download_from=inappvc)[ ](https://www.larksuite.com/download?download_from=inappvc)[https://www.larksuite.com/download?download\_from=inappvc](https://www.larksuite.com/download?download_from=inappvc)
 2. Зарегистрируйтесь, для регистрации можно использовать номер телефона/почту или войти через Google-аккаунт.
 
-![](<../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (63).png>)
 
 :::info
 
@@ -22,11 +22,11 @@
 
 3. Далее введите код вашей организации - 8 латинских букв, например, GFVBNHYT. Данный код должен быть размещён на странице активности или передан вам куратором/преподавтелем. Если кода пока нет, то запросить его можно в чате дичсциплины или в телеграмм канале, если его зарегистрировали для вашей группы обучения.
 
-![](<../.gitbook/assets/telegram-cloud-photo-size-2-5287501656939939541-w.jpg" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/telegram-cloud-photo-size-2-5287501656939939541-w.jpg>)
 
 4. Вы вошли на платформу, где по вашей программе буду проводится видеозвонки. Проверьте [разрешение для микрофона и камеры](esli-menya-prosyat-prisoedinitsya-v-lark.md#kak-dat-razreshenie-mikrofonu-i-kamere), чтобы быть готовым, когда начнётся звонок.
 
-![](<../.gitbook/assets/telegram-cloud-photo-size-2-5287501656939939544-w.jpg" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/telegram-cloud-photo-size-2-5287501656939939544-w.jpg>)
 
 :::tip
 
@@ -38,11 +38,11 @@
 
 Когда преподаватель начнёт звонок в Lark у всех участников будет информационное сообщение о звонке с возможностью "Присоединиться".
 
-![](<../.gitbook/assets/telegram-cloud-photo-size-2-5287501656939939569-w (1).jpg" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/telegram-cloud-photo-size-2-5287501656939939569-w (1).jpg>)
 
 Из  Odin также в установленное время вы сможете присоединиться к звонку, если ссылка будет продублирована в активность преподавателем.&#x20;
 
-![](<../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (44).png>)
 
 ## Как дать разрешение микрофону и камере?
 
@@ -52,7 +52,7 @@
 [tab: MacOS и IPhone" %}
 1. Нажмите на значок камеры/микрофона и нажмите "Настройки системы" иключите  разрешение для приложения Lark
 
-![](<../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (54).png>)
 
 2. Перезапустите приложение.
 [/tab]
@@ -63,7 +63,7 @@
 3. Если приложениям разрешен доступ к микрофону, можно изменить эти параметры для каждого приложения. В области параметров микрофона перейдите в раздел Выберите, каким приложениям Майкрософт разрешен доступ к микрофону и включите приложения, которым нужно использовать микрофон.
 4. Повторите настройку для Камеры. Для этого выберите пункт Видео.
 
-![](<../.gitbook/assets/image (66).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (66).png>)
 [/tab]
 
 [tab:Android" %}
@@ -81,7 +81,7 @@
 
 Проверить разрешение можно, кликнув на три точки в браузере.
 
-![](<../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (48).png>)
 
-![](<../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (53).png>)
 
