@@ -11,22 +11,22 @@
 
 &#x20;необходимо в установленный срок изучить материал и выполнить задание.
 
-<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 После изучения получить оценку от преподавателя и затем создать отчёт.
 
-<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 При создании отчета необходимо заполнить поля на форме и отправить его.
 
-<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
 Цифровой след попадёт на проверку.
 
-<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
 После проверки (или через 48 часов после отправки) отчёт будет принят и отправлен в У2025.
 
-<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>

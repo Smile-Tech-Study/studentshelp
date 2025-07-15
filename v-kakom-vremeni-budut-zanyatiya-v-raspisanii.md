@@ -5,8 +5,8 @@
 Для установки верного часового пояса необходимо войти на страницу редактирования профиля по кнопке "Редактировать".\
 
 
-<figure><img src=".gitbook/assets/image (92).png" alt=""><figcaption></figcaption></figure>
+![](<.gitbook/assets/image (92).png" alt=""><figcaption></figcaption></figure>
 
 Далее в блоке Место проживания установить свой часовой пояс. Город и Часовой пояс могут не совпадать, то есть значения полей можно менять независимо от друг друга.&#x20;
 
-<figure><img src=".gitbook/assets/image (93).png" alt=""><figcaption></figcaption></figure>
+![](<.gitbook/assets/image (93).png" alt=""><figcaption></figcaption></figure>

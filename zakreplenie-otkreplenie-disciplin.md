@@ -8,7 +8,7 @@ description: Откройте страницу дисциплины
 
 Для быстрого доступа к Дисциплине закрепите её в основном боковом меню, нажав "Закрепить в главном меню".&#x20;
 
-<figure><img src=".gitbook/assets/image (102).png" alt=""><figcaption></figcaption></figure>
+![](<.gitbook/assets/image (102).png" alt=""><figcaption></figcaption></figure>
 
 :::info
 
@@ -22,4 +22,4 @@ description: Откройте страницу дисциплины
 
 Дисциплина исчезнет из левого бокового меню.
 
-<figure><img src=".gitbook/assets/image (103).png" alt=""><figcaption></figcaption></figure>
+![](<.gitbook/assets/image (103).png" alt=""><figcaption></figcaption></figure>

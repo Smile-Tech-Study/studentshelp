@@ -2,8 +2,8 @@
 
 Для настройки уведомлений необходимо зайти на страницу профиля и нажать кнопку "Настроить уведомления".
 
-<figure><img src=".gitbook/assets/image (122).png" alt=""><figcaption></figcaption></figure>
+![](<.gitbook/assets/image (122).png" alt=""><figcaption></figcaption></figure>
 
 Далее по списку следует выбрать, какие именно уведомления надо включить. После этого нажмите "Сохранить".
 
-<figure><img src=".gitbook/assets/image (123).png" alt=""><figcaption></figcaption></figure>
+![](<.gitbook/assets/image (123).png" alt=""><figcaption></figcaption></figure>

@@ -2,6 +2,6 @@
 
 Узнать эту информацию можно на странице программы, если её указали администраторы.&#x20;
 
-<figure><img src=".gitbook/assets/image (133).png" alt=""><figcaption></figcaption></figure>
+![](<.gitbook/assets/image (133).png" alt=""><figcaption></figcaption></figure>
 
 Если же срок доступа не отображается, в этом случае следует написать куратору для уточнения. [Где найти куратора?](gde-naiti-kuratora.md)

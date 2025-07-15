@@ -10,7 +10,7 @@ description: Обмен сообщениями
 * Групповые чаты - чаты, где вы являетесь участником;
 * Личные чаты - ваш чат для заметок и личные чаты с другими пользователями.
 
-<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
 :::info
 
@@ -30,13 +30,13 @@ description: Обмен сообщениями
 
 Для создания личного чата нажмите на значок ![](../.gitbook/assets/plus.png), выберите участников и сохраните.
 
-<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
 ### Как удалить чат?
 
 Удалить чат нельзя, но если вы являетесь его создателем, то можете перенести групповой чат в архив. Личные  чаты и чаты дисциплин заархивировать нельзя.
 
-<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
 :::danger
 

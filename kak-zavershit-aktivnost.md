@@ -4,12 +4,12 @@
 
 В активности с типом "Контрольная" необходимо решить предложенный тест и получить за него баллы. Начать тестирование следует с нажатия на кнопку "Перейти к тесту".
 
-<figure><img src=".gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+![](<.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 В активности с типом задание необходимо прикрепить свое решение по соответствующей кнопке и также получить за него баллы.
 
-<figure><img src=".gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+![](<.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 Во всех остальных типах активности есть кнопка "Завершить активность" - ее необходимо нажать после изучения всех материалов, представленных в активности. После этого пройденная активность попадет в прогресс прохождения.
 
-<figure><img src=".gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+![](<.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>

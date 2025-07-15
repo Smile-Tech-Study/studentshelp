@@ -12,7 +12,7 @@
 
 &#x20; 2\. Нажмите **ОК**.
 
-<figure><img src="../.gitbook/assets/image (126).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (126).png" alt=""><figcaption></figcaption></figure>
 [/tab]
 
 [tab:MacOS" %}

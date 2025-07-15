@@ -4,7 +4,7 @@
 
 По кнопке **"Написать сообщение"** можно связаться с **Куратором** в чате Odin.
 
-<figure><img src=".gitbook/assets/image (99).png" alt=""><figcaption></figcaption></figure>
+![](<.gitbook/assets/image (99).png" alt=""><figcaption></figcaption></figure>
 
 :::info
 

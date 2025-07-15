@@ -9,4 +9,4 @@
 
 :::
 
-<figure><img src="../.gitbook/assets/image (127).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (127).png" alt=""><figcaption></figcaption></figure>

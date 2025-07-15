@@ -8,4 +8,4 @@ description: Политика контента регламентирует вс
 
 Просим ознакомиться с политикой контента и учитывать ее при размещении информации и материалов в Odin.&#x20;
 
-<figure><img src="../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>

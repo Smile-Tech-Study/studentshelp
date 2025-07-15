@@ -17,7 +17,7 @@ description: >-
 
 Для отмены заявки в личном кабинете гражданина  нажмите кнопку **"Отозвать заявку"**.&#x20;
 
-<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+![](<.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 Далее вы перейдёте на [портал РР](https://trudvsem.ru), где необходимо отозвать заявку. Для этого:
 
@@ -25,7 +25,7 @@ description: >-
 
 **2. Нажмите "Отзыв заявления"**&#x20;
 
-<figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+![](<.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 После отмены заявки при подаче новой необходимо будет заново пройти процедуру подачи документов, в том числе в ЦЗН. &#x20;
@@ -72,4 +72,4 @@ description: >-
 
 При подаче заявления на отчисление высветится следующее предупреждение:
 
-<figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+![](<.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>

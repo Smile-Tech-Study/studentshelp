@@ -2,9 +2,9 @@
 
 Запись звонка, проведенного в Odin, можно найти перейдя в чат дисциплины, в рамках которой проводился звонок, нажать на тридот, а далее выбрать "Записи звонков".
 
-<figure><img src=".gitbook/assets/image (124).png" alt=""><figcaption></figcaption></figure>
+![](<.gitbook/assets/image (124).png" alt=""><figcaption></figcaption></figure>
 
 Также запись звонка будет прикреплена материалом к активности, в рамках которой этот звонок проводился. Располагаться материал будет последним в списке материалов активности. Данному материалу присваивается название в виде “Запись занятия от <дата звонка>”.
 
-<figure><img src=".gitbook/assets/image (125).png" alt=""><figcaption></figcaption></figure>
+![](<.gitbook/assets/image (125).png" alt=""><figcaption></figcaption></figure>
 
