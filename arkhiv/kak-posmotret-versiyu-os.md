@@ -3,7 +3,7 @@
 Чтобы посмотреть версию операционной системы на Windows и MacOS выберете соответствующий раздел:
 
 [tabs]
-[tab:Windows 8.1 - 11" %}
+[tab:Windows 8.1 - 11]
 1. Чтобы узнать, какая версия Windows используется на вашем устройстве, нажмите **клавишу с логотипом Windows** ![](https://winnote.ru/uploads/posts/2018-11/1543170989_winkey.png) + **R**, введите **winver** в поле **Открыть.**
 
 ![](<../.gitbook/assets/image (36).png>)
@@ -15,7 +15,7 @@
 ![](<../.gitbook/assets/image (126).png>)
 [/tab]
 
-[tab:MacOS" %}
+[tab:MacOS]
 1. Чтобы узнать, какая версия MacOS используется на вашем устройстве, в **меню Apple** ![](<../.gitbook/assets/image (23).png>) в углу экрана выберите **пункт «Об этом Mac»**.
 
 ![](<../.gitbook/assets/image (42).png>)
