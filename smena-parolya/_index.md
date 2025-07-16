@@ -1,63 +1,73 @@
 ---
 description: В системе предусмотрена возможность изменения пароля.
 order: 0.111102
+title: Смена пароля
 ---
 
-# Смена пароля
+В системе предусмотрена возможность изменения пароля.
 
-:::info
+:::info 
 
-Ссылка для входа в  Odin [https://www.odin.study/ru/Account/Login](https://www.odin.study/ru/Account/Login)
+**Ссылка для входа в Odin:** <https://www.odin.study/ru/Account/Login>
 
 :::
 
-\
+
+
 **Смена пароля может потребоваться в следующих случаях:**
 
-<details>
+[tabs]
 
-<summary>Если пользователь совсем его не помнит/не знает</summary>
+[tab:Если пользователь совсем его не помнит/не знает]
 
 Зайдите на [страницу авторизации Один](https://odin.study/ru/Account/Login/) и нажмите "Забыли пароль".​
 
-![](<.gitbook/assets/image (82).png>)​
+![](./smena-parolya.jpeg){width=550px height=583px}
 
 Введите email, с которым зарегистрированы в программе, отметьте галочку "Я не робот" и нажмите "Отправить".​
 
-![](<.gitbook/assets/image (34).png>)
+![](./smena-parolya-2.jpeg){width=900px height=468px}
 
+Войдите в указанную почту, найдите письмо от нас (адрес отправителя [noreply@odin.study](mailto:noreply@odin.study)) и нажмите ссылку.​
 
-
-Войдите в указанную  почту, найдите письмо от нас (адрес отправителя noreply@odin.study) и нажмите ссылку.​
-
-​![](<.gitbook/assets/image (26).png>)
+![](./smena-parolya-3.jpeg){width=900px height=615px}
 
 Придумайте свой пароль и повторите его. Отметьте галочку и нажмите кнопку "Восстановить".​
 
-![](<.gitbook/assets/image (59).png>)​
+![](./smena-parolya-4.jpeg){width=900px height=687px}
 
 Появится сообщение "Пароль успешно восстановлен". После такого сообщения введите свои email и пароль. Нажмите кнопку "Войти".​
 
-![](<.gitbook/assets/image (83).png>)​
+![](./smena-parolya-5.jpeg){width=653px height=677px}
 
 Вы снова в системе Odin!​
 
-![](<.gitbook/assets/image (84).png>)​​
+![](./smena-parolya-6.jpeg){width=900px height=480px}
 
-</details>
+[/tab]
 
-<details>
-
-<summary>Если пользователь находится в системе и знает свой пароль</summary>
+[tab:Если пользователь находится в системе и знает свой пароль]
 
 Если пользователь находится в системе и знает свой пароль, то он может его поменять. Для этого необходимо перейти на страницу своего профиля и в меню выбрать кнопку Изменить пароль.
 
-![](<.gitbook/assets/image (85).png>)
+![](./smena-parolya-7.jpeg){width=900px height=450px}
 
 В открывшемся окне необходимо ввести текущий пароль, новый пароль, продублировать новый пароль, а далее нажать на кнопку "Сохранить" в правом нижнем углу страницы.
 
-![](<.gitbook/assets/image (13) (1).png>)
+![](./smena-parolya-8.jpeg){width=900px height=664px}
+
+[/tab]
+
+[tab]
 
 
 
-</details>
+[/tab]
+
+[tab]
+
+
+
+[/tab]
+
+[/tabs]
