@@ -22,10 +22,6 @@ order: 0.111216
 
 [tab:Android]
 
-Опубликовано приложение Odin в [Google Play](https://play.google.com/store/apps/details?id=study.odin.www.twa).
-
-![](./prilozhenie.png){width=560px height=1254px}
-
 
 
 [/tab]
@@ -55,5 +51,3 @@ Odin **нет** в AppStore, но вы можете установить PWA - *
 [/tab]
 
 [/tabs]
-
-
