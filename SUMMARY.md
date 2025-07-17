@@ -23,9 +23,9 @@ order: 0.1
 
 -  [🔍 Поиск](./odin/poisk/_index)
 
--  [🗓️ Расписание (календарь).](./../OdinStudents_help/odin/raspisanie-kalendar-.)
+-  [🗓️ Расписание (календарь)](./odin/raspisanie-kalendar-/_index)
 
--  [🛠️ О чём написать по адресу support@odin.study](./o-chyom-napisat-po-adresu-support-odin.study)
+-  🛠️[О чём написать по адресу support@odin.study](./odin/o-chyom-napisat-po-adresu-support-odin/_index)
 
 ## Проект "Содействие занятости"
 
