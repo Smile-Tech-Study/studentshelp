@@ -6,15 +6,15 @@ title: Приложение
 order: 0.111216
 ---
 
-
+В зависимости от ОС телефона можете выбрать  вариант установки приложения Odin
 
 [tabs]
 
 [tab]
 
-Опубликовано приложение Odin в [Google Play](https://play.google.com/store/apps/details?id=study.odin.www.twa).
 
 
+![](./prilozhenie-7.png){width=560px height=1254px}
 
 
 
@@ -55,3 +55,5 @@ Odin **нет** в AppStore, но вы можете установить PWA - *
 [/tab]
 
 [/tabs]
+
+
