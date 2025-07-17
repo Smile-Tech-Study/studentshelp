@@ -5,6 +5,22 @@ title: "\_Приложение \_Odin"
 
 В зависимости от ОС телефона можете выбрать установки приложения Odin
 
+[tabs]
+
+[tab: Android]
+
+
+
+[/tab]
+
+[tab:IOS]
+
+
+
+[/tab]
+
+[/tabs]
+
 Опубликовано приложение Odin в [Google Play](https://play.google.com/store/apps/details?id=study.odin.www.twa).
 
 
@@ -22,5 +38,3 @@ Odin **нет** в AppStore, но вы можете установить PWA - *
 4. Нажмите кнопку “Добавить”.
 
 5. PWA - приложение для SPA установлено на экран вашего телефона.
-
-   
