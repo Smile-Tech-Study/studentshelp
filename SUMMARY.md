@@ -45,7 +45,7 @@ order: 0.1
 
 ---
 
--  [Смена пароля](./smena-parolya/_index)
+-  [Смена пароля](./voprosy/smena-parolya/_index)
 
 -  [Закрепление/открепление дисциплин](./zakreplenie-otkreplenie-disciplin)
 
@@ -85,7 +85,7 @@ order: 0.1
 
 -  [Кэш. Что это и зачем его очищать](https://www.odin.study/odin/chasto-zadavaemye-voprosy/kesh-brauzera-chto-eto-i-zachem-ego-ochishat)
 
--  [Счастье в ваших руках](./schaste-v-vashikh-rukakh)
+-  [Счастье в ваших руках](./schaste-v-vashikh-rukakh/_index)
 
 ## Архив
 
