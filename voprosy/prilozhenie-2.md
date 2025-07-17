@@ -1,6 +1,6 @@
 ---
 order: 2.1
-title: Приложение
+title: "Приложение \_Odin"
 ---
 
 В зависимости от ОС телефона можете выбрать  вариант установки приложения Odin
@@ -9,7 +9,7 @@ title: Приложение
 
 [tab: Android]
 
-Опубликовано приложение Odin в [Google Play](https://play.google.com/store/apps/details?id=study.odin.www.twa).
+Опубликовано приложение Odin в
 
 ![](./prilozhenie.png){width=560px height=1254px}
 
