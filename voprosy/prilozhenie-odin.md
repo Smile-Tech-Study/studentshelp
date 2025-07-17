@@ -9,7 +9,7 @@ title: Приложение
 
 [tab: Android]
 
-Опубликовано приложение Odin в [Google Play﻿](https://play.google.com/store/apps/details?id=study.odin.www.twa)
+Опубликовано приложение Odin в <https://play.google.com/store/apps/details?id=study.odin.www.twa>
 
 ![](./prilozhenie-odin.png){width=560px height=1254px}
 
