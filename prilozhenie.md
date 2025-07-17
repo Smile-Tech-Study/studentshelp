@@ -6,49 +6,52 @@ title: Приложение
 order: 0.111216
 ---
 
-В зависимости от ОС телефона можете выбрать тот или иной вариант установки приложения Odin
+В зависимости от ОС телефона можете выбрать  вариант установки приложения Odin
 
-<details>
+[tabs]
 
-<summary>
-
-На смартфоне Android:
-
-</summary>
+[tab]
 
 Опубликовано приложение Odin в [Google Play](https://play.google.com/store/apps/details?id=study.odin.www.twa).
 
-![](<.gitbook/assets/image (104).png>)
-
-</details>
-
-<details>
-
-<summary>
-
-На IPhone:
-
-</summary>
 
 
+
+
+[/tab]
+
+[tab:Android]
+
+Опубликовано приложение Odin в [Google Play](https://play.google.com/store/apps/details?id=study.odin.www.twa).
+
+![](./prilozhenie.png){width=560px height=1254px}
+
+
+
+[/tab]
+
+[tab:IOS]
 
 Odin **нет** в AppStore, но вы можете установить PWA - **приложение** для SPA на мобильной версии **через браузер**:
 
 1. Зайдите в браузер Safari
-2. Меню браузера нажмите на ![](https://lh5.googleusercontent.com/-hL7UL4PFy3jAarjhrsbtiD-655-RXpZAVOWMTB17_Sq0iOg64Smrorc8ORGb8KSzuTg8FOGNV4nj8zHjGa5E5nhEtjoi4PNzJNVKzI8--od-mwqxCbcb6--j8pi3dmTjCrocVYZqqQ5TGbs5g).
 
-![](<.gitbook/assets/image (106).png>)
+2. Меню браузера нажмите на ![](./prilozhenie-2.png){width=70px height=66px} 
 
-3. Выберите пункт “На экран Домой”.
+   ![](./prilozhenie-3.png){width=583px height=1274px}
 
-![](<.gitbook/assets/image (107).png>)
+3. Выберите пункт “На экран Домой”
 
-4. Нажмите кнопку “Добавить”.
+   ![](./prilozhenie-4.png){width=582px height=1159px}
 
-![](<.gitbook/assets/image (108).png>)
+4. Нажмите кнопку “Добавить”
 
-5. PWA - приложение для SPA установлено на экран вашего телефона.
+   ![](./prilozhenie-5.png){width=577px height=368px}
 
-![](<.gitbook/assets/image (109).png>)
+5. PWA - приложение для SPA установлено на экран вашего телефона
 
-</details>
+   ![](./prilozhenie-6.png){width=583px height=286px}
+
+[/tab]
+
+[/tabs]
