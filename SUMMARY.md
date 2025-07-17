@@ -63,23 +63,23 @@ order: 0.1
 
 -  [Если меня не слышно в звонке Odin](./voprosy/esli-menya-ne-slyshno-v-zvonke-odin/_index)
 
--  [Как отключить расширения браузера?](./kak-otklyuchit-rasshireniya-brauzera)
+-  [Как отключить расширения браузера?](./voprosy/kak-otklyuchit-rasshireniya-brauzera)
 
--  [Где найти запись звонка, если звонок был в Odin?](./gde-naiti-zapis-zvonka-esli-zvonok-byl-v-odin/_index)
+-  [Где найти запись звонка, если звонок был в Odin?](./voprosy/gde-naiti-zapis-zvonka-esli-zvonok-byl-v-odin/_index)
 
--  [Где найти чат дисциплины?](./gde-naiti-chat-discipliny/_index)
+-  [Где найти чат дисциплины?](./voprosy/gde-naiti-chat-discipliny/_index)
 
--  [Где найти куратора?](./gde-naiti-kuratora)
+-  [Где найти куратора?](./voprosy/gde-naiti-kuratora)
 
--  [Как настроить уведомления?](./kak-nastroit-uvedomleniya)
+-  [Как настроить уведомления?](./voprosy/kak-nastroit-uvedomleniya)
 
--  [Как отправить решение на задание?](./kak-otpravit-reshenie-na-zadanie)
+-  [Как отправить решение на задание?](./voprosy/kak-otpravit-reshenie-na-zadanie)
 
--  [Как отозвать заявку на обучение?](./kak-otozvat-zayavku-na-obuchenie)
+-  [Как отозвать заявку на обучение?](./voprosy/kak-otozvat-zayavku-na-obuchenie)
 
--  [Как подать заявление на отчисление?](./kak-podat-zayavlenie-na-otchislenie)
+-  [Как подать заявление на отчисление?](./voprosy/kak-podat-zayavlenie-na-otchislenie)
 
--  [Как получить документ после обучения?](./kak-poluchit-dokument-posle-obucheniya)
+-  [Как получить документ после обучения?](./voprosy/kak-poluchit-dokument-posle-obucheniya)
 
 -  [Настройка синхронизации с Google календарем](https://www.odin.study/odin/instrukcii-po-rabote/nastroika-sinkhronizacii-s-google-kalendarem)
 
