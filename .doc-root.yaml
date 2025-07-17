@@ -2,3 +2,28 @@ title: Справка для студентов Odin
 optionalCategoryIndex: true
 supportedLanguages: []
 properties: []
+link:
+  name: OdinStudents_help
+  pathname: github.com/Smile-Tech-Study/OdinStudents_help/main/-
+  lastVisited: github.com/Smile-Tech-Study/OdinStudents_help/main/-/SUMMARY
+  logo: null
+  title: Справка для студентов Odin
+  query: {}
+  group: null
+  code: ""
+  style: null
+  description: null
+  order: 999999
+  isCloning: false
+  cloneCancelDisabled: false
+  redirectOnClone: null
+relatedLinks: []
+name: OdinStudents_help
+repositoryName: OdinStudents_help
+sourceName: github.com
+userInfo:
+  mail: kitlove51@list.ru
+  name: LyubovAsseyeva
+  id: kitlove51@list.ru
+logo: logo odin.png
+logo_dark: logo odin.png
