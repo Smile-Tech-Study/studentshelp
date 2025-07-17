@@ -47,11 +47,11 @@ order: 0.1
 
 -  [Смена пароля](./voprosy/smena-parolya/_index)
 
--  [Закрепление/открепление дисциплин](./zakreplenie-otkreplenie-disciplin)
+-  [Закрепление/открепление дисциплин](./voprosy/zakreplenie-otkreplenie-disciplin)
 
 -  [Приложение](./prilozhenie)
 
--  [Как сменить язык профиля?](./kak-smenit-yazyk-profilya)
+-  [Как сменить язык профиля?](./voprosy/kak-smenit-yazyk-profilya)
 
 -  [В каком времени будут занятия в расписании?](./v-kakom-vremeni-budut-zanyatiya-v-raspisanii)
 
