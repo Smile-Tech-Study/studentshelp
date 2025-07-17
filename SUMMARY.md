@@ -57,11 +57,11 @@ order: 0.1
 
 -  [Как завершить активность?](./voprosy/kak-zavershit-aktivnost)
 
--  [Как отключить уведомления в чате?](./kak-otklyuchit-uvedomleniya-v-chate)
+-  [Как отключить уведомления в чате?](./voprosy/kak-otklyuchit-uvedomleniya-v-chate)
 
--  [На сколько сохранится доступ к обучению?](./na-skolko-sokhranitsya-dostup-k-obucheniyu)
+-  [На сколько сохранится доступ к обучению?](./voprosy/na-skolko-sokhranitsya-dostup-k-obucheniyu)
 
--  [Если меня не слышно в звонке Odin](./esli-menya-ne-slyshno-v-zvonke-odin/_index)
+-  [Если меня не слышно в звонке Odin](./voprosy/esli-menya-ne-slyshno-v-zvonke-odin/_index)
 
 -  [Как отключить расширения браузера?](./kak-otklyuchit-rasshireniya-brauzera)
 
