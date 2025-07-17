@@ -53,9 +53,9 @@ order: 0.1
 
 -  [Как сменить язык профиля?](./voprosy/kak-smenit-yazyk-profilya)
 
--  [В каком времени будут занятия в расписании?](./v-kakom-vremeni-budut-zanyatiya-v-raspisanii)
+-  [В каком времени будут занятия в расписании?](./voprosy/v-kakom-vremeni-budut-zanyatiya-v-raspisanii)
 
--  [Как завершить активность?](./kak-zavershit-aktivnost)
+-  [Как завершить активность?](./voprosy/kak-zavershit-aktivnost)
 
 -  [Как отключить уведомления в чате?](./kak-otklyuchit-uvedomleniya-v-chate)
 
