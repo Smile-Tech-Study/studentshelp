@@ -6,7 +6,7 @@ title: Приложение
 order: 0.111216
 ---
 
-В зависимости от ОС телефона можете выбрать  вариант установки приложения Odin
+
 
 [tabs]
 
@@ -36,7 +36,7 @@ Odin **нет** в AppStore, но вы можете установить PWA - *
 
 1. Зайдите в браузер Safari
 
-2. Меню браузера нажмите на ![](./prilozhenie-2.png){width=70px height=66px} 
+2. Меню браузера нажмите на ![](./prilozhenie-2.png){width=70px height=66px}
 
    ![](./prilozhenie-3.png){width=583px height=1274px}
 
