@@ -6,4 +6,4 @@ title: Счастье в ваших руках
 
 Образование - одна из составляющих счастья каждого человека
 
-![](./schaste-v-vashikh-rukakh.jpeg){width=2304px height=1576px}
+![](./_index.jpeg){width=2304px height=1576px}
