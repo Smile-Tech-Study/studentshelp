@@ -7,9 +7,7 @@ title: Приложение
 
 
 
-[tabs]
-
-[tab:IOS]
+## IOS
 
 Odin **нет** в AppStore, но вы можете установить PWA - **приложение** для SPA на мобильной версии **через браузер**:
 
@@ -31,8 +29,4 @@ Odin **нет** в AppStore, но вы можете установить PWA - *
 
    ![](./prilozhenie-odin-6.png){width=583px height=286px}
 
-   
-
-[/tab]
-
-[/tabs]
+6. 6
