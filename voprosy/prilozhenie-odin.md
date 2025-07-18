@@ -31,6 +31,8 @@ Odin **нет** в AppStore, но вы можете установить PWA - *
 
    ![](./prilozhenie-odin-6.png){width=583px height=286px}
 
+   
+
 [/tab]
 
 [/tabs]
