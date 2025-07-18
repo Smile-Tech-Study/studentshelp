@@ -33,14 +33,4 @@ Odin **нет** в AppStore, но вы можете установить PWA - *
 
 [/tab]
 
-[tab:Android]
-
-Опубликовано приложение Odin в <https://play.google.com/store/apps/details?id=study.odin.www.twa>
-
-![](./prilozhenie-odin.png){width=560px height=1254px}
-
-
-
-[/tab]
-
 [/tabs]
