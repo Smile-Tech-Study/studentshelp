@@ -29,7 +29,7 @@ order: 0.1
 
 ## Проект "Содействие занятости"
 
--  [Успеваемость/Посещаемость](./../OdinStudents_help/proekt-sodeistvie-zanyatosti/uspevaemost-poseshaemost)
+-  [Успеваемость/Посещаемость](./profil/uspevaemost-poseshaemost/_index)
 
 ## Проект "БАС"
 
