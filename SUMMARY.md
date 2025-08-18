@@ -3,7 +3,7 @@ title: Содержание
 order: 0.1
 ---
 
--  [Добро пожаловать в ODIN!](./../OdinStudents_help/README)
+-  [Добро пожаловать в ODIN!](./README-2/_index)
 
 ## Odin
 
@@ -11,9 +11,9 @@ order: 0.1
 
 -  [📋 Дашборд](./odin/dashbord)
 
--  [🧑‍🎓 Профиль](./../OdinStudents_help/odin/profil/README)
+-  [🧑‍🎓 Профиль](./odin/README/_index)
 
-   -  [Организация](./../OdinStudents_help/odin/profil/organizaciya)
+   -  [Организация](./odin/README/organizaciya)
 
 -  [📚 Библиотека](./odin/biblioteka/_index)
 
@@ -49,7 +49,7 @@ order: 0.1
 
 -  [Закрепление/открепление дисциплин](./voprosy/zakreplenie-otkreplenie-disciplin)
 
--  [Приложение](./prilozhenie)
+-  [Приложение](./voprosy/prilozhenie-odin/_index)
 
 -  [Как сменить язык профиля?](./voprosy/kak-smenit-yazyk-profilya)
 
