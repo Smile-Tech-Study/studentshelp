@@ -5,7 +5,7 @@ order: 0.1
 
 =======
 
--  [Добро пожаловать в ODIN!](./odin/znakomstvo/_index)
+-  Добро пожаловать в ODIN!
 
 ## Odin
 
