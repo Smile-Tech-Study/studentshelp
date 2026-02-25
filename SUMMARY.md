@@ -3,9 +3,7 @@ title: Содержание
 order: 1
 ---
 
-=======
-
--  Добро пожаловать в ODIN!
+Добро пожаловать в ODIN!
 
 ## Odin
 
@@ -13,9 +11,9 @@ order: 1
 
 -  [📋 Дашборд](./odin/dashbord)
 
--  [🧑‍🎓 Профиль](./odin/README/_index)
+-  🧑‍🎓[ Профиль](./odin/Profil/_index)
 
-   -  [Организация](./odin/README/organizaciya)
+   -  [Организация](./odin/Profil/organizaciya)
 
 -  [📚 Библиотека](./odin/biblioteka/_index)
 
