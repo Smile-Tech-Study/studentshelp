@@ -19,23 +19,23 @@ title: Приложение
 
 Odin **нет** в AppStore, но вы можете установить PWA - **приложение** для SPA на мобильной версии **через браузер**:
 
-1. Зайдите в браузер Safari
+Зайдите в браузер Safari
 
-2. В меню браузера нажмите на:
+В меню браузера нажмите на три точки в правом нижнем углу и потом «Поделиться»:
 
-   ![](./prilozhenie-odin-2.jpeg){width=583px height=1274px}
+![](./prilozhenie-odin.png){width=566px height=1229px}
 
-3. Выберите пункт “На экран Домой”.
+Выберите пункт “Добавить на экран Домой”.
 
-   ![](./prilozhenie-odin-3.jpeg){width=582px height=1159px}
+![](./prilozhenie-odin-2.png){width=563px height=1191px}
 
-4. Нажмите кнопку “Добавить”.
+Назовите иконку, нажмите кнопку “Добавить”.
 
-   ![](./prilozhenie-odin-4.jpeg){width=577px height=368px}
+![](./prilozhenie-odin-3.png){width=569px height=648px}
 
-5. PWA - приложение установлено на экран вашего телефона.
+PWA - приложение установлено на экран вашего телефона.
 
-   ![](./prilozhenie-odin-5.jpeg){width=583px height=286px}
+![](./prilozhenie-odin-4.png){width=563px height=360px}
 
 [/tab]
 
