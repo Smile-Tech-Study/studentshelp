@@ -3,3 +3,6 @@ order: 5.5
 title: "Проект\_«Код будущего»"
 ---
 
+[view:hierarchy=none::::List]
+
+

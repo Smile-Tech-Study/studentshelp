@@ -3,4 +3,6 @@ order: 19.1
 title: 🔄 Кэш. Что это и зачем его очищать
 ---
 
-**🔄** [Кэш. Что это и зачем его очищать](https://gramax.smile-tech.study/helpOdin/chasto-zadavaemye-voprosy/kesh-brauzera-chto-eto-i-zachem-ego-ochishat)
+**🔄** [Кэш. Что это и зачем его очищать](https://www.odin.study/help/chasto-zadavaemye-voprosy/kesh-brauzera-chto-eto-i-zachem-ego-ochishat)
+
+
