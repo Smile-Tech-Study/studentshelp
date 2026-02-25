@@ -21,7 +21,7 @@ Odin **нет** в AppStore, но вы можете установить PWA - *
 
 1. Зайдите в браузер Safari
 
-2. Меню браузера нажмите на: 
+2. В меню браузера нажмите на:
 
    ![](./prilozhenie-odin-2.jpeg){width=583px height=1274px}
 
@@ -33,7 +33,7 @@ Odin **нет** в AppStore, но вы можете установить PWA - *
 
    ![](./prilozhenie-odin-4.jpeg){width=577px height=368px}
 
-5. PWA - приложение для SPA установлено на экран вашего телефона.
+5. PWA - приложение установлено на экран вашего телефона.
 
    ![](./prilozhenie-odin-5.jpeg){width=583px height=286px}
 
